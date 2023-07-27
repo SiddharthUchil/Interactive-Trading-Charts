@@ -18,8 +18,6 @@ lightweight-charts-python aims to provide a simple and pythonic way to access an
 pip install lightweight-charts
 ```
 
-- White screen? Having issues with pywebview? Click [here](https://github.com/louisnw01/lightweight-charts-python/issues?q=label%3A%22pywebview+issue%22+).
-
 ---
 
 ### 1. Display data from a csv:
